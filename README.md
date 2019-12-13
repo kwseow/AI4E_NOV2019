@@ -1,4 +1,4 @@
-# AI4E 8th Nov 2019
+# AI4E 8th Nov 2019, 13th Dec 2019
 
 ## Instructions
 + Download pdf (presentation deck and activity sheets)
